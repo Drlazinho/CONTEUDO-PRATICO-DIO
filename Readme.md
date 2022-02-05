@@ -1,3 +1,4 @@
 # Apresentação
 
-## Desafios e projetos feitos com através da plataforma DIO.
+## Desafios e projetos feitos através da plataforma DIO - Digital Innovatio One.
+
