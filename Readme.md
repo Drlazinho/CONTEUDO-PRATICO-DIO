@@ -1,8 +1,4 @@
-# Apresentação
-
-## Desafios e projetos feitos através da plataforma DIO - Digital Innovation One.
-
-Desafios dos Bootcamps realizados na DIO.
+## Desafios dos Bootcamps realizados na DIO. - Digital Innovation One.
 
 Soluções Separadas por Tecnologia
 
